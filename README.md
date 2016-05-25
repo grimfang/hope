@@ -1,2 +1,2 @@
 # hope
-Simple Space/SciFi RTS made in unity3d
+simple ball game in unity3d
